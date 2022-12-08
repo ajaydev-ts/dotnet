@@ -1,0 +1,12 @@
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\bin\Debug\net6.0\Yourclass.deps.json
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\bin\Debug\net6.0\Yourclass.dll
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\bin\Debug\net6.0\Yourclass.pdb
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.csproj.AssemblyReference.cache
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.AssemblyInfoInputs.cache
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.AssemblyInfo.cs
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.csproj.CoreCompileInputs.cache
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.dll
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\refint\Yourclass.dll
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\Yourclass.pdb
+C:\Users\ajaydev.ts\Documents\dotnet\project1\Yourclass\obj\Debug\net6.0\ref\Yourclass.dll

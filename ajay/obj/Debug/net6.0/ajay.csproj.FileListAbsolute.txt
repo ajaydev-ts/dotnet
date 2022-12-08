@@ -1,0 +1,15 @@
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\bin\Debug\net6.0\ajay.exe
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\bin\Debug\net6.0\ajay.deps.json
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\bin\Debug\net6.0\ajay.runtimeconfig.json
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\bin\Debug\net6.0\ajay.dll
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\bin\Debug\net6.0\ajay.pdb
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.csproj.AssemblyReference.cache
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.AssemblyInfoInputs.cache
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.AssemblyInfo.cs
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.csproj.CoreCompileInputs.cache
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.dll
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\refint\ajay.dll
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.pdb
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ajay.genruntimeconfig.cache
+C:\Users\ajaydev.ts\Documents\dotnet\ajay\obj\Debug\net6.0\ref\ajay.dll

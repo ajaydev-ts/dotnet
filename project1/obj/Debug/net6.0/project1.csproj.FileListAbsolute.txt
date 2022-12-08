@@ -1,0 +1,5 @@
+C:\Users\ajaydev.ts\Documents\dotnet\project1\obj\Debug\net6.0\project1.csproj.AssemblyReference.cache
+C:\Users\ajaydev.ts\Documents\dotnet\project1\obj\Debug\net6.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaydev.ts\Documents\dotnet\project1\obj\Debug\net6.0\project1.AssemblyInfoInputs.cache
+C:\Users\ajaydev.ts\Documents\dotnet\project1\obj\Debug\net6.0\project1.AssemblyInfo.cs
+C:\Users\ajaydev.ts\Documents\dotnet\project1\obj\Debug\net6.0\project1.csproj.CoreCompileInputs.cache
